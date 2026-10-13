@@ -27,5 +27,8 @@ su - username : Beralih ke pengguna lain dengan lingkungan login, termasuk penga
    
 a. Edit file .bash_profile, ganti prompt PS1 dengan parameter nama variabel tersebut, agar berlaku oleh semua shell.
 
+<img width="1280" height="270" alt="2b pratikum5" src="https://github.com/user-attachments/assets/2db749f8-7003-4384-b2e4-6774b50d44b3" />
+
+
 
 
