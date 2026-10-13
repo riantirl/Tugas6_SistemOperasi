@@ -29,6 +29,9 @@ a. Edit file .bash_profile, ganti prompt PS1 dengan parameter nama variabel ters
 
 <img width="1280" height="270" alt="2b pratikum5" src="https://github.com/user-attachments/assets/2db749f8-7003-4384-b2e4-6774b50d44b3" />
 
+3. Eksperimen hasil PS1 :
+
+<img width="1280" height="403" alt="2b pratikum5" src="https://github.com/user-attachments/assets/a73eceea-5041-4093-8969-cc1db016c4af" />
 
 
 
