@@ -33,5 +33,15 @@ b. Eksperimen hasil PS1 :
 
 <img width="1280" height="403" alt="2b pratikum5" src="https://github.com/user-attachments/assets/a73eceea-5041-4093-8969-cc1db016c4af" />
 
+3.Logout
+Edit file .bash_logout, tampilkan pesan dan tahan selama 5 detik, sebelum eksekusi logout.
+
+<img width="1280" height="327" alt="VirtualBox_ubuntu2604_13_10_2026_10_44_19" src="https://github.com/user-attachments/assets/f4d08534-174e-464c-99ee-94a560edcdc3" />
+
+<img width="1280" height="197" alt="VirtualBox_ubuntu2604_13_10_2026_10_37_21" src="https://github.com/user-attachments/assets/a2b05cc3-bbe5-430a-82ce-baead8a4b1c4" />
+
+4. Bash Script
+   
+a. Buat 3 buah script p1.sh, p2.sh, p3.sh dengan isi masing-masing:
 
 
