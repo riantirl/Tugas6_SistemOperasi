@@ -15,7 +15,7 @@ b. Asumsi nama anda stD02001, maka edit semua profile yang ada yaitu:
 
 c. Jalankan instruksi substitute user, kemudian keluar dengan perintah exit sebagai berikut:
 
-<img width="1280" height="419" alt="1c tugas 5" src="https://github.com/user-attachments/assets/61711f7a-7c8b-42c0-b64d-0501e65fc8d6" />
+<img width="1280" height="330" alt="1c yang benarrr" src="https://github.com/user-attachments/assets/bb013667-5fbf-4b64-9fcb-64228132afc3" />
 
 Perbedaan kedua utilitas tersebut adalah:
 
