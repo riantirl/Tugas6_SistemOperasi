@@ -83,6 +83,26 @@ d. Stop program background dengan utilitas kill
 
 <img width="1179" height="85" alt="5d benarrrr terakhir" src="https://github.com/user-attachments/assets/0600b287-b332-4c7c-b56a-bec11b38c5c8" />
 
+6. History
 
+a. Ganti nilai HISTSIZE dari 1000 menjadi 20
 
+<img width="1280" height="232" alt="benar 6a" src="https://github.com/user-attachments/assets/1df519ad-7dfa-4a01-aec0-f5c8b229d20b" />
 
+b. Gunakan fasilitas history dengan mengedit instruksi baris ke 5 dari instruksi yang
+terakhir dilakukan
+
+<img width="1280" height="496" alt="6b yang benar" src="https://github.com/user-attachments/assets/82e4e48e-1136-4a9a-be26-aab9ea440790" />
+
+c. Ulangi instruksi yang terakhir. Gunakan juga ^P dan ^N untuk bernavigasi pada
+history bufer
+
+<img width="1280" height="147" alt="6c bener" src="https://github.com/user-attachments/assets/632a47fb-9815-44ab-a865-14218f300559" />
+
+d. Ulangi instruksi pada history bufer nomor 150
+
+<img width="1280" height="509" alt="6d yang benar nian" src="https://github.com/user-attachments/assets/ea746075-2336-4c88-9ff0-2aa0ee484845" />
+
+e. Ulangi instruksi dengan prefix “ls”
+
+<img width="1280" height="536" alt="6e selesai" src="https://github.com/user-attachments/assets/b778de97-c349-43b4-a51c-13c326c9e44c" />
