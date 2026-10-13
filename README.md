@@ -18,7 +18,9 @@ c. Jalankan instruksi substitute user, kemudian keluar dengan perintah exit seba
 <img width="1280" height="419" alt="1c tugas 5" src="https://github.com/user-attachments/assets/61711f7a-7c8b-42c0-b64d-0501e65fc8d6" />
 
 Perbedaan kedua utilitas tersebut adalah:
+
 su username : beralih ke pengguna lain tanpa melalui lingkungan login secarah penuh.
+
 su - username : Beralih ke pengguna lain dengan lingkungan login, termasuk pengaturan lingkungan dan pembacaan file profile login yang sesuai.
 
 
