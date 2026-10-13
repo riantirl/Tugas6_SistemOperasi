@@ -23,5 +23,9 @@ su username : beralih ke pengguna lain tanpa melalui lingkungan login secarah pe
 
 su - username : Beralih ke pengguna lain dengan lingkungan login, termasuk pengaturan lingkungan dan pembacaan file profile login yang sesuai.
 
+2. Prompt String (PS)
+   
+a. Edit file .bash_profile, ganti prompt PS1 dengan parameter nama variabel tersebut, agar berlaku oleh semua shell.
+
 
 
