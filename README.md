@@ -1,2 +1,3 @@
 # Tugas6_SistemOperasi
-halo
+
+1.
