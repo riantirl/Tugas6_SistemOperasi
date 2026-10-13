@@ -44,4 +44,19 @@ Edit file .bash_logout, tampilkan pesan dan tahan selama 5 detik, sebelum ekseku
    
 a. Buat 3 buah script p1.sh, p2.sh, p3.sh dengan isi masing-masing:
 
+<img width="1280" height="154" alt="4a p1" src="https://github.com/user-attachments/assets/5e0ba0f3-75f8-4247-9999-b1b0c84861d4" />
+
+<img width="1280" height="156" alt="4a p2" src="https://github.com/user-attachments/assets/8ce5ca57-1e84-459f-a4b3-716ef1e28789" />
+
+<img width="1280" height="149" alt="4a p3" src="https://github.com/user-attachments/assets/0d13668b-a8b0-4a06-8d5e-e44273bb4aaf" />
+
+<img width="1280" height="644" alt="4b foto pertama" src="https://github.com/user-attachments/assets/4357d0b8-ac29-4c82-a943-ca9eef07ad9f" />
+
+b. Jalankan script tersebut sebagai berikut :
+
+<img width="1280" height="800" alt="4b foto kedua" src="https://github.com/user-attachments/assets/cbf334fd-d4c0-448d-8be4-560f3c446e07" />
+
+<img width="1280" height="629" alt="4b foto ketiga" src="https://github.com/user-attachments/assets/f301f746-4e01-44ce-8f7e-84ca547d136b" />
+
+<img width="1280" height="800" alt="4b foto keempat" src="https://github.com/user-attachments/assets/f6011066-91d5-4bed-a23e-65c32e16305b" />
 
