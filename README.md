@@ -54,11 +54,11 @@ a. Buat 3 buah script p1.sh, p2.sh, p3.sh dengan isi masing-masing:
 
 b. Jalankan script tersebut sebagai berikut :
 
-<img width="1280" height="800" alt="4b foto kedua" src="https://github.com/user-attachments/assets/cbf334fd-d4c0-448d-8be4-560f3c446e07" />
+<img width="1280" height="774" alt="4b foto kedua" src="https://github.com/user-attachments/assets/d387964b-2ce6-4279-94a9-483281264017" />
 
 <img width="1280" height="629" alt="4b foto ketiga" src="https://github.com/user-attachments/assets/f301f746-4e01-44ce-8f7e-84ca547d136b" />
 
-<img width="1280" height="800" alt="4b foto keempat" src="https://github.com/user-attachments/assets/f6011066-91d5-4bed-a23e-65c32e16305b" />
+<img width="1280" height="765" alt="4b foto keempat" src="https://github.com/user-attachments/assets/b419942c-4325-4b0c-8069-0bb151832d95" />
 
 5. Jobs
    
